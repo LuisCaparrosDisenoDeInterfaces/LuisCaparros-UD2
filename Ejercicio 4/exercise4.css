@@ -39,7 +39,7 @@
     transition: color 0.3s;
 }
 
-.nav__link--hover {
+.nav__link:hover {
     color: #FFD700;
 }
 
@@ -53,7 +53,7 @@
     font-weight: bold;
 }
 
-.main__content {
+.main {
     padding: 2rem;
 }
 
